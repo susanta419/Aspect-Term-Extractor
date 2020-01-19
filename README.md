@@ -1,1 +1,1 @@
-# Aspect-Term-Extractor-ATE
+# Aspect-Term-Extractor(ATE)
